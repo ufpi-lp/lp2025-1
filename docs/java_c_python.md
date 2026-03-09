@@ -971,7 +971,7 @@ print("Sum:", a + b)
 |---------------------|---------------------------------|--------------------------------|---------------------------------|
 | **Typing**          | Static                          | Static                         | Dynamic                         |
 | **Performance**     | Fast                            | Very Fast                      | Slower                          |
-| **Memory Management| Automatic (Garbage Collection)  | Manual                         | Automatic (Garbage Collection)  |
+| **Memory Management**| Automatic (Garbage Collection)  | Manual                         | Automatic (Garbage Collection)  |
 | **Use Cases**       | Enterprise, Android             | System Programming, Embedded   | Scripting, Web, Data Science    |
 | **Learning Curve**  | Moderate                        | Steep                          | Easy                            |
 | **Ecosystem**       | Extensive                       | Limited                        | Vast                            |
